@@ -13,6 +13,7 @@ Step by Step Learn.
 2.6. example6 - Graphql Playground 
 2.7. example7 - File Upload with Upload Scaler function
 2.8. example8 - Subscription example
+2.9. example9 - Health Check Example
 3. Schema Concept
 
 
