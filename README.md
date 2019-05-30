@@ -12,7 +12,7 @@ Step by Step Learn.
 2.5. example5 - Performance Monitering for Query & Muatation & Schema
 2.6. example6 - File Upload with Upload Scaler function
 2.7. example7 - Subscription example
-3.
+3. Schema Concept
 
 
 
