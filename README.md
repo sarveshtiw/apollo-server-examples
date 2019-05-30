@@ -10,8 +10,9 @@ Step by Step Learn.
 2.3. example3 - Apollo Errors
 2.4. example4 - Mocking
 2.5. example5 - Performance Monitering for Query & Muatation & Schema
-2.6. example6 - File Upload with Upload Scaler function
-2.7. example7 - Subscription example
+2.6. example6 - Graphql Playground 
+2.7. example7 - File Upload with Upload Scaler function
+2.8. example8 - Subscription example
 3. Schema Concept
 
 
